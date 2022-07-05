@@ -8,4 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class AppTest {
 
+    public static void bla() {
+        System.out.println("bla");
+    }
 }
